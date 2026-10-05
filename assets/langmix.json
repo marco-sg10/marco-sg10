@@ -1,0 +1,11 @@
+{
+  "title": "Lenguajes y herramientas",
+  "_comment": "AUTOEVALUACIÓN 0-100 (valores de ejemplo, edítalos). Cuando tengas más repos públicos puedes generarlo con datos reales de GitHub: python scripts/radar.py --github TU_USUARIO -o assets/radar-langs",
+  "axes": [
+    { "label": "Python", "value": 70 },
+    { "label": "C++", "value": 65 },
+    { "label": "Java", "value": 60 },
+    { "label": "R / estadística", "value": 55 },
+    { "label": "JavaScript", "value": 45 }
+  ]
+}
