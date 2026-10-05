@@ -31,7 +31,9 @@ Estudiante de Ciencias de la Computación en Lima. Me interesa resolver problema
 
 - 🌱 Diseñé un sistema IoT que se probó en campo con una cooperativa cacaotera.
 - 📊 Convierto datos de Excel, SQL y sensores en dashboards y modelos de predicción.
-- 🧱 Estoy profundizando en full stack con **Spring Boot, React y AWS**.
+- 🗺️ Proceso datos espaciales con **QGIS** y los convierto en mapas interactivos de Lima.
+- 🛠️ Modelo piezas en **Onshape** y las preparo para impresión 3D con **PrusaSlicer**.
+- 🧱 Estoy profundizando en full stack con **Spring Boot, React y AWS**, y en **Docker, GitHub Actions y CI/CD**.
 - 🗣️ Practico inglés técnico a diario.
 
 ---
@@ -48,12 +50,13 @@ Estudiante de Ciencias de la Computación en Lima. Me interesa resolver problema
 
 | Proyecto | Qué resuelve | Tecnologías |
 |---|---|---|
-| 🌱 **[Monitoreo IoT de fermentación de cacao](https://github.com/TU_USUARIO/cacao-fermentation-iot)** | Registra temperatura y humedad durante la fermentación y avisa cuando salen del rango. Probado en Tocache con productores. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ |
-| 🏙️ **[¿Cómo respira Lima?](https://github.com/TU_USUARIO/REPO_LIMA)** | Análisis geoespacial por distritos: tráfico, actividad humana, ruido y contaminación a lo largo del día, en una web local. | Python · análisis geoespacial · [tecnología de la web] |
+| 🌱 **[Monitoreo IoT de fermentación de cacao](https://github.com/TU_USUARIO/cacao-fermentation-iot)** | Registra temperatura y humedad durante la fermentación y avisa cuando salen del rango. Probado en Tocache con productores. Incluye carcasa diseñada por mí. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ · Onshape · PrusaSlicer |
+| 🏙️ **[Lima Pulso: ¿cómo respira Lima?](https://github.com/TU_USUARIO/lima-pulso)** | Tomo capas espaciales de fuentes confiables, las recorto a Lima en QGIS, las unifico en una sola base y las muestro en un mapa interactivo por distrito: ruido, tráfico, actividad humana y contaminación según la hora del día. | QGIS Desktop · Excel · [tecnología de la web] |
 | 📈 **[Predicción de productos más vendidos](https://github.com/TU_USUARIO/REPO_ML)** | Modelo que aprende de ventas 2020-2026 en Excel para anticipar qué productos se venden más. | Python · pandas · Machine Learning |
-| 🏦 **[Plataforma bancaria full stack](https://github.com/TU_USUARIO/REPO_BANCO)** | Aplicación web y móvil con autenticación segura y base de datos relacional. | Java · Spring Boot · JWT · PostgreSQL · React · React Native · AWS |
+| 🏦 **[Plataforma bancaria full stack](https://github.com/TU_USUARIO/REPO_BANCO)** | Aplicación web y móvil con autenticación segura y base de datos relacional. Docker Compose en local y Dockerfile para la nube. | Java · Spring Boot · JWT · PostgreSQL · Docker · React · React Native · AWS |
 | 🧠 **[Red neuronal en C++ desde cero](https://github.com/TU_USUARIO/REPO_NN)** | Clasificación de patrones, predicción de series, control simple y pruebas de robustez con entradas ruidosas. | C++ · punteros · templates · STL |
 | 📊 **[Dashboards en R y Power BI](https://github.com/TU_USUARIO/REPO_DASH)** | Análisis estadístico y visualización de datos de negocio. | R · RStudio · Power BI · Excel |
+| 🛠️ **[Diseño e impresión 3D](https://github.com/TU_USUARIO/3d-designs)** | Proyectos personales: carcasa del prototipo de cacao, tablero de juego de mesa con logos de redes sociales y soporte de laptop a 40°. | Onshape · PrusaSlicer |
 
 ---
 
@@ -73,9 +76,20 @@ Estudiante de Ciencias de la Computación en Lima. Me interesa resolver problema
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino y Raspberry Pi"><br>
         <sub><code>ESP32 · Arduino · Raspberry Pi · Arduino IoT Cloud</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ▣ data_analytics:</code><br><br>
+      <td width="50%" valign="top"><code>├─ ⬡ prototyping_3d:</code><br><br>
+        <img src="https://img.shields.io/badge/Onshape-1e6ebf?style=for-the-badge" alt="Onshape">
+        <img src="https://img.shields.io/badge/PrusaSlicer-fa6831?style=for-the-badge" alt="PrusaSlicer"><br>
+        <sub><code>Onshape (modelado 3D) · PrusaSlicer (laminado)</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▣ data_analytics:</code><br><br>
         <img src="https://skillicons.dev/icons?i=python,r,powerbi,pandas,numpy,opencv" alt="Python, R, Power BI, pandas, NumPy y OpenCV"><br>
         <sub><code>Python · R · Power BI · pandas · NumPy · OpenCV (básico)</code></sub>
+      </td>
+      <td valign="top"><code>├─ ◈ geospatial_gis:</code><br><br>
+        <img src="assets/icon-qgis.svg" height="48" alt="QGIS"><br>
+        <sub><code>QGIS Desktop · análisis geoespacial</code></sub>
       </td>
     </tr>
     <tr>
@@ -93,9 +107,9 @@ Estudiante de Ciencias de la Computación en Lima. Me interesa resolver problema
         <img src="https://skillicons.dev/icons?i=cpp,python,java" alt="C++, Python y Java"><br>
         <sub><code>C++ · Python · Java · SQL · R</code></sub>
       </td>
-      <td valign="top"><code>╰─ ☁ cloud_tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,git,github" alt="AWS, Git y GitHub"><br>
-        <sub><code>AWS · Git · GitHub</code></sub>
+      <td valign="top"><code>╰─ ☁ devops_cloud:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,aws" alt="Docker, GitHub Actions, Git, GitHub y AWS"><br>
+        <sub><code>Docker · Docker Compose · GitHub Actions · CI/CD · Git · AWS</code></sub>
       </td>
     </tr>
   </tbody>
@@ -133,6 +147,7 @@ Estudiante de Ciencias de la Computación en Lima. Me interesa resolver problema
 
 ```text
 > Profundizando en full stack: Spring Boot, React y despliegue en AWS
+> Automatizando con Docker, GitHub Actions y pipelines de CI/CD
 > Documentando mis proyectos con README, capturas y casos de estudio
 > Mejorando mi inglés técnico (leer documentación, escribir a clientes)
 > Buscando mis primeros proyectos freelance y prácticas preprofesionales

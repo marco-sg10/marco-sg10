@@ -44,17 +44,17 @@ YAML_ROWS = [
     (1, "base", "Lima, Perú"),
     (1, "focus", "Datos · IoT · Full Stack"),
     (1, "status", "Abierto a freelance y prácticas"),
-    (1, "toolchain", "ESP32 · Python · Power BI · Spring Boot"),
+    (1, "toolchain", "ESP32 · Python · QGIS · Spring Boot"),
     (0, "stack", ""),
     (1, "iot", "ESP32 · Arduino · Raspberry Pi"),
-    (1, "datos", "Python · R · Power BI · pandas"),
+    (1, "prototipado", "Onshape · PrusaSlicer"),
+    (1, "datos", "Python · R · Power BI · QGIS"),
     (1, "backend", "Java · Spring Boot · PostgreSQL"),
     (1, "frontend", "React · React Native"),
-    (1, "lenguajes", "C++ · Python · Java · SQL"),
+    (1, "devops", "Docker · GitHub Actions · CI/CD"),
     (0, "contact", ""),
     (1, "linkedin", "/in/TU_USUARIO"),
     (1, "github", "TU_USUARIO"),
-    (1, "zona", "UTC-5 · Lima"),
 ]
 
 THEMES = {

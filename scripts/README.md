@@ -23,3 +23,7 @@ python scripts/radar.py --github TU_USUARIO -o assets/radar-langs
 ```
 
 Los valores de los JSON son una autoevaluación de ejemplo: ajústalos a lo que puedas defender en una entrevista.
+
+## Automatización (GitHub Actions)
+
+`.github/workflows/charts.yml` redibuja los radares solo: cuando cambias `assets/skills.json`, `assets/langmix.json` o `scripts/radar.py` y haces push, GitHub corre el script y sube los SVG actualizados. El banner no se automatiza, porque tarda más y conviene generarlo en tu computadora.
