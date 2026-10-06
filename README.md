@@ -146,18 +146,6 @@ Un poco de mi:
 
 ---
 
-## `$ cat ahora.md`
-
-```text
-> Terminando el cliente de UrbanFix (TypeScript, React, Tailwind) sobre mi servidor en Spring Boot
-> Automatizando con Docker, GitHub Actions y pipelines de CI/CD
-> Documentando mis proyectos con README, capturas y casos de estudio
-> Mejorando mi inglés técnico (leer documentación, escribir a clientes)
-> Buscando mis primeros proyectos freelance y prácticas preprofesionales
-```
-
----
-
 ## `$ connect --contacto`
 
 <div align="center">
@@ -180,5 +168,5 @@ Un poco de mi:
 <br>
 
 <div align="center">
-<sub>Hecho con ☕ y mucha curiosidad desde Lima, Perú</sub>
+<sub>Hecho con ☕ y mucha curiosidad</sub>
 </div>
