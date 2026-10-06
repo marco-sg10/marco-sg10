@@ -27,16 +27,6 @@
   <img src="assets/whoami.svg" width="820" alt="Terminal con mi perfil: rol, enfoque y stack">
 </p>
 
-Soy Marco Sabino estudiante de Ciencias de la Computación, apasionado por la tecnología desde pequeño y ahora a un nivel más profesional. Me interesa resolver problemas reales con datos y software.
-Un poco de mi:
-- Diseñé un sistema IoT que se probó en campo con una cooperativa cacaotera en la selva peruana.
-- Convierto datos de Excel, SQL y sensores en dashboards y modelos de predicción.
-- Proceso datos espaciales con **QGIS** y los convierto en mapas interactivos de ciudades con variables como el transito, contaminación ambiental, ruido, actividad humana a partir de data geoespacial.
-- Construyo **sistemas web multiplataforma** (laptop, tablet y celular): servidor con **Spring Boot, Java** y cliente con **Java Scrip,TypeScript, React, React native y Tailwind CSS**.
-- Trabajo con **Docker, GitHub Actions y CI/CD**.
-- Uso **Linux** a diario, he instalado distintas distribuciones en equipos antiguos y usé una Raspberry Pi como computador de escritorio.
-- Manejo de inglés con certificado de TOELF ITP.
-
 ---
 
 ## `$ pipeline --mi-flujo`
