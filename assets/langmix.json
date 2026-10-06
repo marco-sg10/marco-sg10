@@ -4,23 +4,23 @@
   "axes": [
     {
       "label": "Python",
-      "value": 70
+      "value": 90
     },
     {
       "label": "C++",
-      "value": 65
+      "value": 90
     },
     {
       "label": "Java",
-      "value": 60
+      "value": 90
     },
     {
       "label": "R / estadística",
-      "value": 55
+      "value": 80
     },
     {
       "label": "JavaScript / TS",
-      "value": 45
+      "value": 80
     }
   ]
 }
