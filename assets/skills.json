@@ -4,7 +4,7 @@
   "axes": [
     {
       "label": "IoT y embebidos",
-      "value": 70
+      "value": 80
     },
     {
       "label": "Análisis de datos",
@@ -12,19 +12,19 @@
     },
     {
       "label": "Machine Learning",
-      "value": 50
+      "value": 70
     },
     {
       "label": "Backend (Java/Spring)",
-      "value": 55
+      "value": 90
     },
     {
       "label": "Frontend (TS/React)",
-      "value": 50
+      "value": 90
     },
     {
       "label": "Bases de datos (SQL)",
-      "value": 60
+      "value": 70
     }
   ]
 }
