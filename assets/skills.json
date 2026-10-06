@@ -8,7 +8,7 @@
     },
     {
       "label": "Análisis de datos",
-      "value": 70
+      "value": 75
     },
     {
       "label": "Machine Learning",
@@ -24,7 +24,7 @@
     },
     {
       "label": "Bases de datos (SQL)",
-      "value": 70
+      "value": 75
     }
   ]
 }
