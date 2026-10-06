@@ -2,11 +2,29 @@
   "title": "Áreas de trabajo",
   "_comment": "AUTOEVALUACIÓN 0-100, solo como referencia visual. Cambia los valores a lo que de verdad sientas; que sean honestos y los puedas defender en una entrevista. Luego corre: python scripts/radar.py --data assets/skills.json -o assets/radar",
   "axes": [
-    { "label": "IoT y embebidos", "value": 70 },
-    { "label": "Análisis de datos", "value": 70 },
-    { "label": "Machine Learning", "value": 50 },
-    { "label": "Backend (Java/Spring)", "value": 55 },
-    { "label": "Frontend (React)", "value": 50 },
-    { "label": "Bases de datos (SQL)", "value": 60 }
+    {
+      "label": "IoT y embebidos",
+      "value": 70
+    },
+    {
+      "label": "Análisis de datos",
+      "value": 70
+    },
+    {
+      "label": "Machine Learning",
+      "value": 50
+    },
+    {
+      "label": "Backend (Java/Spring)",
+      "value": 55
+    },
+    {
+      "label": "Frontend (TS/React)",
+      "value": 50
+    },
+    {
+      "label": "Bases de datos (SQL)",
+      "value": 60
+    }
   ]
 }

@@ -39,7 +39,7 @@ PREFERRED_LOGO_ORDER = ("espressif", "python", "react", "postgresql")
 
 YAML_ROWS = [
     (0, "profile", ""),
-    (1, "subject", "[TU NOMBRE]"),
+    (1, "subject", "Marco Antonio"),
     (1, "role", "Estudiante de Ciencias de la Computación"),
     (1, "base", "Lima, Perú"),
     (1, "focus", "Datos · IoT · Full Stack"),
@@ -47,14 +47,14 @@ YAML_ROWS = [
     (1, "toolchain", "ESP32 · Python · QGIS · Spring Boot"),
     (0, "stack", ""),
     (1, "iot", "ESP32 · Arduino · Raspberry Pi"),
-    (1, "prototipado", "Onshape · PrusaSlicer"),
+    (1, "sistemas", "Linux · Ubuntu · Mint"),
     (1, "datos", "Python · R · Power BI · QGIS"),
     (1, "backend", "Java · Spring Boot · PostgreSQL"),
-    (1, "frontend", "React · React Native"),
+    (1, "frontend", "TypeScript · React · Tailwind"),
     (1, "devops", "Docker · GitHub Actions · CI/CD"),
     (0, "contact", ""),
-    (1, "linkedin", "/in/TU_USUARIO"),
-    (1, "github", "TU_USUARIO"),
+    (1, "linkedin", "/in/TU_LINKEDIN"),
+    (1, "github", "marco-sg10"),
 ]
 
 THEMES = {
@@ -368,7 +368,7 @@ def render_svg(
         '<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
         'aria-labelledby="title desc">',
-        "<title id=\"title\">Perfil de [TU NOMBRE]: datos, IoT y full stack</title>",
+        "<title id=\"title\">Perfil de Marco Antonio: datos, IoT y full stack</title>",
         '<desc id="desc">Animated terminal profile with a dithered portrait and '
         "silhouettes of the tools I use.</desc>",
         "<defs>",
@@ -503,7 +503,7 @@ def render_svg(
             f'stroke="{t["chrome"]}"/>',
             f'<text x="1062" y="111" text-anchor="middle" fill="{t["chrome"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
-            'font-weight="700">@TU_USUARIO</text>',
+            'font-weight="700">@marco-sg10</text>',
         ]
     )
 

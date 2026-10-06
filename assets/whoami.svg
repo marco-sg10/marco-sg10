@@ -17,14 +17,14 @@
     <text x="30" y="230">  +-------------+</text>
     <text x="30" y="250">    | | | | | |</text>
   </g>
-  <text x="300" y="100" fill="#79c0ff" font-weight="bold">[tu-usuario]@lima</text>
+  <text x="300" y="100" fill="#79c0ff" font-weight="bold">marco-sg10@lima</text>
   <text x="300" y="120" fill="#484f58">------------------</text>
   <g fill="#7ee787">
     <text x="300" y="144">rol</text>
     <text x="300" y="166">ubicación</text>
     <text x="300" y="188">enfoque</text>
     <text x="300" y="210">iot</text>
-    <text x="300" y="232">prototipado</text>
+    <text x="300" y="232">sistemas</text>
     <text x="300" y="254">datos</text>
     <text x="300" y="276">geoespacial</text>
     <text x="300" y="298">backend</text>
@@ -38,11 +38,11 @@
     <text x="410" y="166">Lima, Perú</text>
     <text x="410" y="188">Datos · IoT · Full Stack</text>
     <text x="410" y="210">ESP32 · Arduino · Raspberry Pi</text>
-    <text x="410" y="232">Onshape · PrusaSlicer (3D)</text>
+    <text x="410" y="232">Linux · Ubuntu · Mint · Raspberry Pi</text>
     <text x="410" y="254">Python · R · Power BI · SQL</text>
     <text x="410" y="276">QGIS Desktop</text>
     <text x="410" y="298">Java · Spring Boot · JWT · API REST</text>
-    <text x="410" y="320">React · React Native</text>
+    <text x="410" y="320">TypeScript · React · Tailwind · Axios</text>
     <text x="410" y="342">Docker · GitHub Actions · CI/CD · AWS</text>
     <text x="410" y="364">Español · English (A2, en progreso)</text>
     <text x="428" y="386">Abierto a freelance y prácticas</text>
