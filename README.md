@@ -5,14 +5,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" width="960" alt="Perfil de Marco Antonio: datos, IoT y full stack">
+    <img src="assets/banner-light.svg" width="960" alt="Perfil de Marco Antonio: datos, IoT, full stack">
   </picture>
 </a>
 
 <br>
 
 <a href="https://github.com/marco-sg10">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=E3B341&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Datos+%C2%B7+IoT+%C2%B7+Full+Stack;Del+sensor+al+dashboard+y+a+la+aplicaci%C3%B3n;ESP32+%C2%B7+Python+%C2%B7+R+%C2%B7+Power+BI;Spring+Boot+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Tailwind" alt="Texto animado con mi enfoque">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=E3B341&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Datos+%C2%B7+IoT+%C2%B7+Full+Stack;Del+sensor+al+dashboard+y+a+la+aplicaci%C3%B3n;Raspberry+Pi+%C2%B7+ESP32+%C2%B7+C++ +%C2%B7+Python+%C2%B7+R+%C2%B7+Power+BI;Spring+Boot+%C2%B7+Java+%C2%B7+Java+Script%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Tailwind" alt="Texto animado con mi enfoque">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=marco-sg10&amp;style=flat&amp;color=e3b341&amp;label=profile+views" alt="Visitas al perfil">
@@ -27,15 +27,15 @@
   <img src="assets/whoami.svg" width="820" alt="Terminal con mi perfil: rol, enfoque y stack">
 </p>
 
-Soy Marco Antonio, estudiante de Ciencias de la Computación en Lima, apasionado por la tecnología desde pequeño y ahora a un nivel más profesional. Me interesa resolver problemas reales con datos y software.
-
-- 🌱 Diseñé un sistema IoT que se probó en campo con una cooperativa cacaotera en la selva peruana.
-- 📊 Convierto datos de Excel, SQL y sensores en dashboards y modelos de predicción.
-- 🗺️ Proceso datos espaciales con **QGIS** y los convierto en mapas interactivos de Lima.
-- 🧱 Construyo **sistemas web multiplataforma** (laptop, tablet y celular): servidor con **Spring Boot** y cliente con **TypeScript, React y Tailwind CSS**.
-- ⚙️ Trabajo con **Docker, GitHub Actions y CI/CD**.
-- 🐧 Uso **Linux** a diario (Ubuntu 22.04), he instalado distintas distribuciones en equipos antiguos y usé una Raspberry Pi como computador de escritorio.
-- 🗣️ Practico inglés técnico a diario.
+Soy Marco Sabino estudiante de Ciencias de la Computación, apasionado por la tecnología desde pequeño y ahora a un nivel más profesional. Me interesa resolver problemas reales con datos y software.
+Un poco de mi:
+- Diseñé un sistema IoT que se probó en campo con una cooperativa cacaotera en la selva peruana.
+- Convierto datos de Excel, SQL y sensores en dashboards y modelos de predicción.
+- Proceso datos espaciales con **QGIS** y los convierto en mapas interactivos de ciudades con variables como el transito, contaminación ambiental, ruido, actividad humana a partir de data geoespacial.
+- Construyo **sistemas web multiplataforma** (laptop, tablet y celular): servidor con **Spring Boot, Java** y cliente con **Java Scrip,TypeScript, React, React native y Tailwind CSS**.
+- Trabajo con **Docker, GitHub Actions y CI/CD**.
+- Uso **Linux** a diario, he instalado distintas distribuciones en equipos antiguos y usé una Raspberry Pi como computador de escritorio.
+- Manejo de inglés con certificado de TOELF ITP.
 
 ---
 
@@ -51,13 +51,13 @@ Soy Marco Antonio, estudiante de Ciencias de la Computación en Lima, apasionado
 
 | Proyecto | Qué resuelve | Tecnologías |
 |---|---|---|
-| 🌱 **[Monitoreo IoT de fermentación de cacao](https://github.com/marco-sg10/cacao-fermentation-iot)** | Registra temperatura y humedad durante la fermentación y avisa cuando salen del rango. Probado en Tocache con productores. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ |
-| 🏙️ **[Lima Pulso: ¿cómo respira Lima?](https://github.com/marco-sg10/lima-pulso)** | Tomo capas espaciales de fuentes confiables, las recorto a Lima en QGIS, las unifico en una sola base y las muestro en un mapa interactivo por distrito: ruido, tráfico, actividad humana y contaminación según la hora del día. | QGIS Desktop · Excel · JavaScript · [librería del mapa] |
-| 🧩 **[UrbanFix](https://github.com/marco-sg10/urbanfix)** | Sistema web multiplataforma (laptop, tablet y celular). **Servidor terminado; cliente en desarrollo.** [una línea: qué problema resuelve] | Java · Spring Boot · API REST · JWT · Docker Compose · Dockerfile para AWS · TypeScript · React · Tailwind CSS · Axios |
-| 📈 **[Predicción de productos más vendidos](https://github.com/marco-sg10/REPO_ML)** | Modelo que aprende de ventas 2020-2026 en Excel para anticipar qué productos se venden más. | Python · pandas · Machine Learning |
-| 🏦 **[Sistema bancario en SQL](https://github.com/marco-sg10/REPO_BANCO)** | Diseño e implementación de la base de datos de un sistema bancario. Proyecto del curso de Bases de Datos, sin interfaz. | SQL · PostgreSQL |
-| 🧠 **[Red neuronal en C++ desde cero](https://github.com/marco-sg10/REPO_NN)** | Clasificación de patrones, predicción de series, control simple y pruebas de robustez con entradas ruidosas. | C++ · punteros · templates · STL |
-| 📊 **[Dashboards en R y Power BI](https://github.com/marco-sg10/REPO_DASH)** | Análisis estadístico y visualización de datos de negocio. | R · RStudio · Power BI · Excel |
+| **[Monitoreo IoT de fermentación de cacao](https://github.com/marco-sg10/cacao-fermentation-iot)** | Registra temperatura ambiente e interior y humedad relativa durante la fermentación y avisa con un sistema de alarma a nivel dashboard y dentro de la arquitectura del sistema cuando salen del rango óptimo. Probado en Tocache con productores. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ . Arduino|
+| **[Lima Pulso: ¿cómo respira Lima?](https://github.com/marco-sg10/lima-pulso)** | Tomo capas espaciales de fuentes confiables, las recorto a Lima en QGIS, las unifico en una sola base y las muestro en un mapa interactivo por distrito: ruido, tráfico, actividad humana y contaminación según la hora del día. | QGIS Desktop · Excel · HTML . JavaScript . CSS |
+| **[UrbanFix](https://github.com/marco-sg10/urbanfix)** | Sistema web multiplataforma, que resulve la centralización de reportes de problemas urbanos en las ciudades | Java · Spring Boot · API REST · JWT · Docker Compose · Dockerfile para AWS · JavaScript . TypeScript · React · React Native . Tailwind CSS · Axios |
+| **[Predicción de productos más vendidos](https://github.com/marco-sg10/REPO_ML)** | Modelo que aprende de ventas 2020-2026 en Excel para anticipar qué productos se venden más. | Python · pandas · Machine Learning |
+| **[Sistema bancario en SQL](https://github.com/marco-sg10/REPO_BANCO)** | Diseño e implementación de la base de datos de un sistema bancario. Proyecto del curso de Bases de Datos, sin interfaz. | SQL · PostgreSQL |
+| **[Red neuronal en C++](https://github.com/marco-sg10/REPO_NN)** | Clasificación de patrones, predicción de series, control simple y pruebas de robustez con entradas ruidosas. | C++ · punteros · templates · STL |
+| **[Dashboards en R y Power BI](https://github.com/marco-sg10/REPO_DASH)** | Análisis estadístico y visualización de datos de negocio. | R · RStudio · Power BI · Excel |
 
 ---
 
@@ -118,7 +118,7 @@ Soy Marco Antonio, estudiante de Ciencias de la Computación en Lima, apasionado
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: aprendiendo&nbsp;&nbsp;·&nbsp;&nbsp;environment: campo + nube</code></td>
+      <td colspan="2"><code>status: aprendiendo&nbsp;&nbsp;·&nbsp;&nbsp;environment: campo + desarrollo</code></td>
     </tr>
   </tfoot>
 </table>
