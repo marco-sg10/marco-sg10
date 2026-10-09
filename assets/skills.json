@@ -25,6 +25,11 @@
     {
       "label": "Bases de datos (SQL)",
       "value": 85
+    },
+    {
+      "label":"Sistemas operativos (windows y linux)",
+      "value":85
     }
+    
   ]
 }
