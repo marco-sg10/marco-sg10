@@ -41,7 +41,7 @@
 
 | Proyecto | Qué resuelve | Tecnologías |
 |---|---|---|
-| **[Monitoreo IoT de fermentación de cacao](https://github.com/marco-sg10/cacao-fermentation-iot)** | Registra temperatura ambiente e interior y humedad relativa durante la fermentación y avisa con un sistema de alarma a nivel dashboard y dentro de la arquitectura del sistema cuando salen del rango óptimo. Probado en Tocache con productores. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ . Arduino|
+| **[Monitoreo IoT de fermentación de cacao](https://github.com/marco-sg10/Cacao_fermentaci-nIoT)** | Registra temperatura ambiente e interior y humedad relativa durante la fermentación y avisa con un sistema de alarma a nivel dashboard y dentro de la arquitectura del sistema cuando salen del rango óptimo. Probado en Tocache con productores. | ESP32 · SHT31 · DS18B20 · Arduino IoT Cloud · C++ . Arduino|
 | **[Lima Pulso: ¿cómo respira Lima?](https://github.com/marco-sg10/lima-pulso)** | Tomo capas espaciales de fuentes confiables, las recorto a Lima en QGIS, las unifico en una sola base y las muestro en un mapa interactivo por distrito: ruido, tráfico, actividad humana y contaminación según la hora del día. | QGIS Desktop · Excel · HTML . JavaScript . CSS |
 | **[UrbanFix](https://github.com/marco-sg10/urbanfix)** | Sistema web multiplataforma, que resulve la centralización de reportes de problemas urbanos en las ciudades | Java · Spring Boot · API REST · JWT · Docker Compose · Dockerfile para AWS · JavaScript . TypeScript · React · React Native . Tailwind CSS · Axios |
 | **[Predicción de productos más vendidos](https://github.com/marco-sg10/REPO_ML)** | Modelo que aprende de ventas 2020-2026 en Excel para anticipar qué productos se venden más. | Python · pandas · Machine Learning |
